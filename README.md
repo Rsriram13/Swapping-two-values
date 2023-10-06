@@ -18,8 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+ #swapping of two variables
+ #developed by sriram
+ #register number;23004952
+ n1=int(input())
+ n2=int(input())
+ n1=temp
+ n1=n2
+ n2=temp
+ print("the swapped values are")
+```
 
-
+## output
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
